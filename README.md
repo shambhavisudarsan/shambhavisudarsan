@@ -20,7 +20,7 @@ I'm **Shambhavi Sudarsan**, a passionate and dedicated software developer with a
 
 ### 📫 How to reach me
 - **Email**: [shambhavisudarsan@gmail.com](mailto:shambhavisudarsan@gmail.com)
-- **LinkedIn**: [Shambhavi Sudarsan](https://www.linkedin.com/in/shambhavi-sudarsan/)
+- **LinkedIn**: [Shambhavi Sudarsan](https://www.linkedin.com/in/shambhavisudarsan/)
 - **Personal Website**: [shambhavisudarsan.me](https://shambhavisudarsan.me)
 
 ### 😄 Pronouns
