@@ -18,6 +18,13 @@ I'm **Shambhavi Sudarsan**, a passionate and dedicated software developer with a
 - Full-stack development (React, Next.js, Node.js).
 - Algorithms and distributed systems.
 
+
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Mastering Next.js: Essential Tools and Tricks for Enhanced Development](http://localhost:3000/blog/nextjs_blog)
+<!-- BLOG-POST-LIST:END -->
+
+
 ### 📫 How to reach me
 - **Email**: [shambhavisudarsan@gmail.com](mailto:shambhavisudarsan@gmail.com)
 - **LinkedIn**: [Shambhavi Sudarsan](https://www.linkedin.com/in/shambhavisudarsan/)
@@ -44,13 +51,6 @@ I'm **Shambhavi Sudarsan**, a passionate and dedicated software developer with a
 
 ### GitHub Stats
 ![Shambhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shambhavisudarsan&show_icons=true&theme=radical)
-
----
-
-### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Mastering Next.js: Essential Tools and Tricks for Enhanced Development]([https://shambhavisudarsan.me/blog/full-stack-development-tips-and-tricks](http://localhost:3000/blog/nextjs_blog))
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
