@@ -18,17 +18,15 @@ I'm **Shambhavi Sudarsan**, a passionate and dedicated software developer with a
 - Full-stack development (React, Next.js, Node.js).
 - Algorithms and distributed systems.
 
-
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Next.js: Essential Tools and Tricks for Enhanced Development](http://localhost:3000/blog/nextjs_blog)
+- <a href="https://shambhavisudarsan.me/blog/nextjs_blog" target="_blank">Mastering Next.js: Essential Tools and Tricks for Enhanced Development</a>
 <!-- BLOG-POST-LIST:END -->
 
-
 ### 📫 How to reach me
-- **Email**: [shambhavisudarsan@gmail.com](mailto:shambhavisudarsan@gmail.com)
-- **LinkedIn**: [Shambhavi Sudarsan](https://www.linkedin.com/in/shambhavisudarsan/)
-- **Personal Website**: [shambhavisudarsan.me](https://shambhavisudarsan.me)
+- **Email**: <a href="mailto:shambhavisudarsan@gmail.com" target="_blank">shambhavisudarsan@gmail.com</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/shambhavisudarsan/" target="_blank">Shambhavi Sudarsan</a>
+- **Personal Website**: <a href="https://shambhavisudarsan.me" target="_blank">shambhavisudarsan.me</a>
 
 ### 😄 Pronouns
 - She/Her
