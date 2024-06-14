@@ -52,4 +52,4 @@ I'm **Shambhavi Sudarsan**, a passionate and dedicated software developer with a
 
 ---
 
-Feel free to connect with me or reach out for any collaborations or interesting projects! Let's create something amazing together!
+Feel free to connect with me or reach out for any collaborations or interesting projects!
